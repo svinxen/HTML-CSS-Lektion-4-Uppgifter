@@ -18,7 +18,9 @@ body {
     transition: .5s ease;
     backface-visibility: hidden;
   }
+ 
   
+
 .middle {
     transition: .5s ease;
     opacity: 0;
@@ -93,9 +95,17 @@ color: white;
 
 }
 
+
+/*Här hade jag kunnat skriva 'font-size: 3rem' 
+men jag ville inte för det blev stort och fult och förstörde min fina design.
+Du får en liten här i alla fall.
+
+Använde mig också utav em för att göra en på vad jag tycker för stor margin.*/
+
 p2{
 color: #16147a;
-
+margin-bottom: 2em;
+font-size: 1.02rem;
 }
 
 
